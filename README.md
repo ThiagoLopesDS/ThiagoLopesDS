@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-=![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -23,9 +23,9 @@
 
 ## 🚀 Projetos Destacados
 
-- [Projeto 1](https://github.com/ThiagoLopesDS/projeto1) - Descrição breve do projeto.
-- [Projeto 2](https://github.com/ThiagoLopesDS/projeto2) - Descrição breve do projeto.
-- [Projeto 3](https://github.com/ThiagoLopesDS/projeto3) - Descrição breve do projeto.
+- [Projeto 1](https://github.com/ThiagoLopesDS/projeto1) - Em breve.
+- [Projeto 2](https://github.com/ThiagoLopesDS/projeto2) - Em breve.
+- [Projeto 3](https://github.com/ThiagoLopesDS/projeto3) - Em breve.
 
 ## 🌐 Conecte-se comigo
 
