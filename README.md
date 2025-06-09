@@ -29,12 +29,12 @@
 
 ## 🌐 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thiagolopes_dossantos/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lopesdossantodthiago026@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_.violinista?utm_source=qr&igsh=bXNhN29neGprbXF4)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lopesdossantosthiago026@gmail.com)
 
 ## 📝 Escola 
 Estudo na Etec Fernando Prestes Fazendo o curso de Análise e Desenvolvimento de Sistemas
 
 ---
 
-⭐️ Feito com ❤️ por Thiago (https://github.com/ThiagoLopesDS)
+⭐️ Feito com ❤️ por Thiago https://thiagolopesds.github.io
